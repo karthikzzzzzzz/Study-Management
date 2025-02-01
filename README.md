@@ -56,10 +56,5 @@ This project is a web application for managing studies with basic CRUD (Create, 
 - Click **View** to see study details.
 - Click **Edit** to modify study records.
 - Click **Delete** to remove a study entry.
-
-## Contributing
-Contributions are welcome! Feel free to submit pull requests or report issues.
-
-## License
-This project is licensed under the MIT License.
+- Click **Upload** to upload a study file.
 
